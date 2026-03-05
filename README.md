@@ -1,16 +1,46 @@
-## Hi there 👋
+# ☕ Gabriel Villarejos
+**`Desenvolvedor Back-End`**
+<p>Me chamo Gabriel Arthur Santos Villarejos, tenho 18 anos e sou natural de São Paulo. Concluí o curso técnico em Desenvoolvimento de sistemas na Etec Fernando Prestes, com outro curso de Hardware e Robótica na Microcamp. Atualmente, estou cursando Ciência da computação na UNIP. Sou apaixonado por tecnologia e gosto de resolver desafios de lógica, com foco total no desenvolvimento pessoal!</p>
 
-<!--
-**GabrielVillarejo/GabrielVillarejo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
+<img src="https://skillicons.dev/icons?i=ts" height="60" alt="tp logo"  />
+<img src="https://skillicons.dev/icons?i=python" height="60" alt="py logo"  />
+<img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
+<img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
+<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
+<img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+<img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
+<img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+</div>
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```js
+import Desenvolvedor from "Gabriel";
+
+class SobreMim extends Desenvolvedor {
+  nome = "Gabriel Arthur Santos Villarejos";
+  area = "Back-End";
+  trabalho = "Estudante";
+  local = "UNIP";
+}
+
+class Skills extends Desenvolvedor {
+  softSkills = ["Resolução de Problemas", "Persistência",  "Trabalho em Equipe", "Aprendizado Contínuo"];
+  hobbies  = ["Estudar", "Programar", "Treinar", "Lutar Jiu-Jitsu"];
+}
+```
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <br />
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielVillarejo&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
