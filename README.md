@@ -4,15 +4,18 @@
 
 ###
 <div align="center">
+<img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
+<img src="https://skillicons.dev/icons?i=arch" height="60" alt="arch logo"  />
 <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
 <img src="https://skillicons.dev/icons?i=ts" height="60" alt="tp logo"  />
 <img src="https://skillicons.dev/icons?i=python" height="60" alt="py logo"  />
-<img src="https://skillicons.dev/icons?i=django" height="60" alt="django logo"  />
-<img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo"  />
-<img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-<img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
+<img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+<img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo"  />
+<img src="https://skillicons.dev/icons?i=arduino" height="60" alt="arduino logo"  />
+<img src="https://skillicons.dev/icons?i=raspberrypi" height="60" alt="raspberrypi logo"  />
 <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
 <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo"  />
+<img src="https://skillicons.dev/icons?i=clion" height="60" alt="clion logo"  />
 </div>
 
 <br />
