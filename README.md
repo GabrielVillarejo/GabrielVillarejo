@@ -1,6 +1,6 @@
 # ☕ Gabriel Villarejos
 **`Desenvolvedor Back-End`**
-<p>Me chamo Gabriel Arthur Santos Villarejos, tenho 18 anos e sou natural de São Paulo. Concluí o curso técnico em Desenvoolvimento de sistemas na Etec Fernando Prestes, com outro curso de Hardware e Robótica na Microcamp. Atualmente, estou cursando Ciência da computação na UNIP. Sou apaixonado por tecnologia e gosto de resolver desafios de lógica, com foco total no desenvolvimento pessoal!</p>
+<p>Me chamo Gabriel Arthur Santos Villarejos, tenho 18 anos e sou natural de São Paulo. Concluí o curso técnico em Desenvoolvimento de sistemas na Etec Fernando Prestes, com outro curso de Hardware e Robótica na Microcamp. Atualmente, estou cursando Ciência da computação na IFSP - Campus Salto. Sou apaixonado por tecnologia e gosto de resolver desafios de lógica, com foco total no desenvolvimento pessoal!</p>
 
 ###
 <div align="center">
@@ -24,7 +24,7 @@ class SobreMim extends Desenvolvedor {
   nome = "Gabriel Arthur Santos Villarejos";
   area = "Back-End";
   trabalho = "Estudante";
-  local = "UNIP";
+  local = "IFSP - Campus Salto";
 }
 
 class Skills extends Desenvolvedor {
